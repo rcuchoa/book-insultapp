@@ -14,4 +14,4 @@ HashMap<String, String> theInsult = new HashMap<String, String>();
 theInsult.put("insult", new InsultGenerator().generateInsult());
 return theInsult;
 }
-}
+} 
